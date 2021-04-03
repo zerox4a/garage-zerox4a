@@ -16664,7 +16664,7 @@ textarea.form-control:active {
   padding-top: 30vh;
 }
 
-.profile-page .page-header .path .profile-photo{
+.profile-page .page-header .path {
   max-width: 65%;
   right: 0;
   top: 100px;
@@ -17441,10 +17441,6 @@ hr.line-deafult {
 .path {
   position: absolute;
   opacity: 0.02;
-}
-
-.profile-photo {
-  position: absolute;
 }
 
 .dots {
