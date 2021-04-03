@@ -16664,7 +16664,7 @@ textarea.form-control:active {
   padding-top: 30vh;
 }
 
-.profile-page .page-header .path {
+.profile-page .page-header .path .profile-photo{
   max-width: 65%;
   right: 0;
   top: 100px;
