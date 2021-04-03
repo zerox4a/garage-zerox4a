@@ -17443,6 +17443,10 @@ hr.line-deafult {
   opacity: 0.02;
 }
 
+.profile-photo {
+  position: absolute;
+}
+
 .dots {
   position: absolute;
   opacity: 0.07;
